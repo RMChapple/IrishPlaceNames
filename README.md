@@ -4,5 +4,5 @@ Lists of Irish placenames
 IrishTownlands.csv contains list of Irish Townlands (both Northern Ireland and Republic of Ireland) in alphabetical order.
 See: https://en.wikipedia.org/wiki/Townland
 
-IrishBaronies.csvcontains list of Irish Townlands (both Northern Ireland and Republic of Ireland) in alphabetical order.
+IrishBaronies.csv contains list of Irish Townlands (both Northern Ireland and Republic of Ireland) in alphabetical order.
 See: https://en.wikipedia.org/wiki/Barony_(Ireland)
